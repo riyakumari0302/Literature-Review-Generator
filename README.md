@@ -8,7 +8,3 @@ This project aims to develop a literature review generator that takes scientific
 - **Summarization Model**: Utilizes distilbart-cnn-12-6 for precise and efficient summarization.
 - **Scalable Chunking**: Employs MapReduce for efficient data chunking.
 
-## Deployment
-We are planning to deploy this application on Streamlit to provide an interactive and user-friendly interface.
-- **Develop Streamlit Interface**: Create a user-friendly interface using Streamlit.
-- **Integrate Modules**: Incorporate text preprocessing and summarization modules into the Streamlit application.
